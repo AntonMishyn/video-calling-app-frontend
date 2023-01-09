@@ -6,6 +6,7 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 .idea
+.idea/**
 
 # User-specific stuff
 .idea/**/workspace.xml
@@ -253,7 +254,7 @@ sketch
 !.yarn/plugins
 !.yarn/sdks
 !.yarn/versions
-
+.eslintcache
 # if you are NOT using Zero-installs, then:
 # comment the following lines
 !.yarn/cache
